@@ -1,0 +1,16 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.fond {
+    background-image: linear-gradient(to right, lightblue 50%, darkblue 50%)
+    
+}   
+
+.card {
+    cursor: pointer;
+
+}
